@@ -1,8 +1,6 @@
 # sept6traning
-Testing readme Update
-change in local
-..
 
+How to setup diff UI tool :
 git config --global --add diff.tool kdiff3 
 
 git config --global --add diff.guitool kdiff3 
